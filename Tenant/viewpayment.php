@@ -106,7 +106,7 @@ function printDiv(data) {
 </div>
 </div>
 <CENTER>
-	<a href="./billing/Payment/payment.php"><button class="btn btn-danger"><span class="glyphicon glyphicon-arrow-right"></span>&nbsp;Pay Bill
+	<a href="Payment/index.php"><button class="btn btn-danger"><span class="glyphicon glyphicon-arrow-right"></span>&nbsp;Pay Bill
 	</button></a>
 	<button type="button"  class="btn btn-default " onclick="printDiv(data)"><spanclass=" glyphicon glyphicon-print"></span>&nbsp;
 	Print Bill</button>&nbsp;
